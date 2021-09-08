@@ -1,0 +1,81 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "price": 1010,
+            "image": "avyj6hyr3pvbbrkq_setting_xxx_0_90_end_800.png",
+            "product_title": "Gamming Bord @",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 2,
+            "price": 730,
+            "image": "hidlrs0qtyp9eqig_setting_xxx_0_90_end_800.png",
+            "product_title": "ASUS Bord",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 3,
+            "price": 380,
+            "image": "P_setting_xxx_0_90_end_185.png",
+            "product_title": "Temper Case",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 4,
+            "price": 1700,
+            "image": "Xlcs2QiBKdqRbsU0_setting_xxx_0_90_end_800.png",
+            "product_title": "Gamming BiTa",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 5,
+            "price": 2000,
+            "image": "BqN57Vv6y0yao01x_setting_xxx_0_90_end_800.png",
+            "product_title": "NVIDIA 3080",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 6,
+            "price": 1900,
+            "image": "jwrwqib1bfhd65l6_setting_xxx_0_90_end_800.png",
+            "product_title": "AMD 1080",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 7,
+            "price": 1290,
+            "image": "P_setting_xxx_0_90_end_500.png",
+            "product_title": "4K Altra",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 8,
+            "price": 600,
+            "image": "P_setting_xxx_0_90_end_800.png",
+            "product_title": "Monitor 21",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 9,
+            "price": 2500,
+            "image": "w800 (1).png",
+            "product_title": "360 Altra Laptop",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 10,
+            "price": 3100,
+            "image": "w800.png",
+            "product_title": "Office Laptop",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        },
+        {
+            "id": 11,
+            "price": 1299,
+            "image": "smartphone-153650_640.png",
+            "product_title": "iPhone 6",
+            "product_desp": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+        }
+    ]
+}
